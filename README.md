@@ -16,3 +16,8 @@ This is template for Fastify with TypeScript with the following features:
 4. Open swagger in the browser http://localhost:8080/api/v1 💥
 5. Start add your endpoints 🚀
 6. Have fun 🎉
+
+## Demo
+
+https://github.com/ymhmd/fastify-template/assets/25840233/20390414-8bdf-4ad2-a435-84069f1d8292
+
