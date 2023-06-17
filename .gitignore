@@ -1,0 +1,20 @@
+node_modules
+
+# Coverage directory used by tools like istanbul
+coverage
+
+.idea
+.DS_Store
+test-report.xml
+dist/
+
+config/local.json
+yarn-error.log
+
+/ops/secrets/*.yaml
+/ops/manifests
+/ops/creds.json
+/ops/*.js
+/ops/*.d.ts
+/ops/install.sh
+.env
